@@ -45,12 +45,12 @@
   "main": "vite.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://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@github.com/servicesground/servicesground-new.git"
+    "url": "git+https://github.com/M-usama-khn/ServicesGroundReact"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/servicesground/servicesground-new/issues"
+    "url": "https://github.com/M-usama-khn/ServicesGroundReact/issues"
   }
 }
